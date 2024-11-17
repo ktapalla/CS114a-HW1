@@ -12,13 +12,7 @@ python test_hw1.py
 
 Doing this will run the set of tests in the test file that was provided to students to test their code. Running the test file will print a score to the user's console indicating the success of the program for each given test case. 
 
-Note: I've added some additional tests to the original file provided in order to correct old bugs/mistakes. The original submission of this assignment resulted in IndexErrors for bigram and trigram tests that consisted of shorter sentences. The added test cases are the following: 
-
-1. ``` test_bigrams2 ```
-2. ``` test_bigrams_short1 ```
-3. ``` test_trigrams2 ```
-4. ``` test_trigrams_short1 ```
-5. ``` test_trigrams_short2 ```
+Note: The test file provided only made up a portion of the final grade for the assignment. More extensive tests were done during final grading, but students weren't given access to those tests. Furthermore, these instructions assume that the user has python downloaded and is able to run the ``` python ``` command in their terminal. 
 
 
 ## Assignment Description 
